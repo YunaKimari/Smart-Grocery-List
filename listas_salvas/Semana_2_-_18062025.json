@@ -1,0 +1,14 @@
+{
+    "titulo": "Semana 2",
+    "data_criacao": "18/06/2025",
+    "local": "Pague Menos",
+    "itens": [
+        {
+            "nome": "Sabão em pó",
+            "quantidade": 1.0,
+            "unidade": "un",
+            "valor_unitario": 42.9,
+            "anotacao": null
+        }
+    ]
+}

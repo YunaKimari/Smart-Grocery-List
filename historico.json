@@ -1,0 +1,58 @@
+{
+    "sabão em pó": [
+        {
+            "data": "17/06/2025",
+            "local": "Assaí Atacado",
+            "unidade": "un",
+            "valor_unitario": 42.9,
+            "quantidade": 1.0,
+            "valor_total": 42.9
+        },
+        {
+            "data": "17/06/2025",
+            "local": "Assaí Atacadista",
+            "unidade": "un",
+            "valor_unitario": 42.9,
+            "quantidade": 1.0,
+            "valor_total": 42.9
+        },
+        {
+            "data": "18/06/2025",
+            "local": "Good Bom",
+            "unidade": "un",
+            "valor_unitario": 42.9,
+            "quantidade": 1.0,
+            "valor_total": 42.9
+        }
+    ],
+    "detergente": [
+        {
+            "data": "18/06/2025",
+            "local": "Assaí Atacadista",
+            "unidade": "un",
+            "valor_unitario": 2.55,
+            "quantidade": 6.0,
+            "valor_total": 15.299999999999999
+        }
+    ],
+    "desinfetante": [
+        {
+            "data": "18/06/2025",
+            "local": null,
+            "unidade": "un",
+            "valor_unitario": 11.9,
+            "quantidade": 1.0,
+            "valor_total": 11.9
+        }
+    ],
+    "milho": [
+        {
+            "data": "18/06/2025",
+            "local": "Pague Menos",
+            "unidade": "un",
+            "valor_unitario": 6.99,
+            "quantidade": 1.0,
+            "valor_total": 6.99
+        }
+    ]
+}
