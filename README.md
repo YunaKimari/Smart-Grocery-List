@@ -1,4 +1,4 @@
-## Lista de Compras (lista_mercado)
+## Lista de Compras (lista_mercado) ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 Um gerenciador de listas de compras de mercado com histórico de preços e manipulação de listas salvas.
 
 ## 🎮 Sobre o projeto
@@ -55,7 +55,7 @@ Este projeto está licenciado sob a Licença MIT.
 
 ---
 
-## Smart Grocery List (CLI)
+## Smart Grocery List (CLI) ![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
 A command-line application in Python to manage your grocery lists efficiently, with price history, duplication, and item suggestions.
 
 ## 🎮 About th project
